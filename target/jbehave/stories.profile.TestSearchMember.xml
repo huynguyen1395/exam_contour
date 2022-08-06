@@ -1,0 +1,8 @@
+<story path="stories/profile/TestSearchMember.story" title="">
+<scenario keyword="Scenario:" title="Test search member by email">
+<step outcome="successful">Given the user navigate to tab &apos;Search Member&apos;</step>
+<step outcome="successful">When the user input searching text</step>
+<step outcome="successful">When the user click button search</step>
+<step outcome="successful">Then the user check result</step>
+</scenario>
+</story>

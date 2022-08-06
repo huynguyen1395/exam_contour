@@ -1,0 +1,8 @@
+com\demo\exam\pages\ProfileManagerPage.class
+com\demo\exam\steps\serenity\CreateMemberSteps.class
+com\demo\exam\common\DataTest.class
+com\demo\exam\steps\serenity\SearchMemberSteps.class
+com\demo\exam\common\Configs.class
+com\demo\exam\tests\AcceptanceTestSuite.class
+com\demo\exam\steps\DefinationCreateMemberSteps.class
+com\demo\exam\steps\DefinationSearchMemberSteps.class

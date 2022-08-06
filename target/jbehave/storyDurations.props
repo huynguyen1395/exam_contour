@@ -1,0 +1,7 @@
+#org.jbehave.core.embedder.StoryManager
+#Sat Aug 06 10:38:51 ICT 2022
+stories/profile/TestCreateNewMember.story=9000
+threads=1
+total=12000
+threadAverage=12000
+stories/profile/TestSearchMember.story=3000

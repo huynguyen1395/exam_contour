@@ -1,0 +1,16 @@
+List Bugs/enhancements identified
+*Add member*
+- first name and last name should be validate: "No number character"
+- all field should be validate: "length of string"
+- phone number should be validate: "follow format and no string character"
+- string too long make over length of text field when view member
+- can't open link terms and conditions
+- email should be validate: "should use characters (a-z), (0-9) and ."
+- can't click button X for deleting message "member has been added ..."
+*List member*
+- Should have button view member for each row (no need tab view member)
+- Can click on row to view member detail
+- Can edit/delete member for each row
+*Search member*
+- Search member should include search by ID member
+- Should separate multiple field search. exp: search by ID, name, title, company, email

@@ -1,0 +1,9 @@
+<story path="stories/profile/TestCreateNewMember.story" title="">
+<scenario keyword="Scenario:" title="Test create new member">
+<step outcome="successful">Given the user navigate to tab &apos;Add Member&apos;</step>
+<step outcome="successful">When the user input profile information</step>
+<step outcome="successful">When the user agree with terms and conditions</step>
+<step outcome="successful">When the user submit information</step>
+<step outcome="successful">Then the user get user by id and check information</step>
+</scenario>
+</story>
